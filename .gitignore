@@ -1,0 +1,14 @@
+/ec2_1gb/.terraform
+/ec2_1gb/.terraform.lock.hcl
+/ec2_1gb/terraform.tfstate
+/ec2_1gb/terraform.tfstate.backup
+
+/s3_bucket/.terraform
+/s3_bucket/.terraform.lock.hcl
+/s3_bucket/terraform.tfstate
+/s3_bucket/terraform.tfstate.backup
+
+/vpc_sg/.terraform
+/vpc_sg/.terraform.lock.hcl
+/vpc_sg/terraform.tfstate
+/vpc_sg/terraform.tfstate.backup
